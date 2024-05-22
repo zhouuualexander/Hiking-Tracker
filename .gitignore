@@ -1,0 +1,57 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native
+# React Native Stack Environment
+*.stacktrace
+*.xcworkspace
+
+# Android
+*.apk
+*.aar
+*.ap_
+*.dex
+*.class
+*.so
+*.jar
+*.keystore
+*/build/
+
+# iOS
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+xcuserdata
+*.hmap
+*.ipa
+*.app
+*.dSYM.zip
+*.dSYM
+
+# macOS
+*.DS_Store
+
+# Logs
+logs
+*.log
+
+# Development Environment
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Build generated files
+/build/
+*.map
+*.lock
+*.pid
+
+# Other
+.env
+.env.local
+.env.*.local
